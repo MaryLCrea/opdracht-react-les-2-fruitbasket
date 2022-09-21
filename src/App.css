@@ -1,0 +1,13 @@
+article {
+    border: 2px solid blue;
+    display: flex;
+    gap: 10px;
+}
+label {
+    display: flex;
+    gap: 10px;
+}
+
+.radio {
+    display: table-column;
+}
